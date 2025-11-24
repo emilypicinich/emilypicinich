@@ -18,20 +18,6 @@ I'm passionate about uncovering insights from data and solving real-world proble
 
 ---
 
-## 📂 Featured Projects
-Here are some of the projects I’ve worked on:
-
-- **[Project 1: SAT Score Analysis](https://github.com/yourusername/project1-repo)**  
-  _Exploring the fairness and predictive power of SAT scores across demographic groups._
-
-- **[Project 2: Customer Churn Prediction](https://github.com/yourusername/project2-repo)**  
-  _Developed a machine learning model to predict customer churn in a subscription business._
-
-- **[Project 3: Sales Dashboard with Tableau](https://github.com/yourusername/project3-repo)**  
-  _Created an interactive dashboard to analyze sales trends and performance metrics._
-
----
-
 ## 📫 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/emilypicinich](https://linkedin.com/in/emilypicinich)  
 - **GitHub**: [github.com/emilypicinich](https://github.com/emilypicinich)  
