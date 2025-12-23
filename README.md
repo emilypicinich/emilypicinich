@@ -6,13 +6,13 @@
 ---
 
 ## 🚀 About Me
-I'm passionate about uncovering insights from data and solving real-world problems through data science and machine learning. Currently, I'm pursuing my Master's in Data Science at Bellevue University, building expertise in Python, R, and data visualization.
+I'm passionate about uncovering insights from data and solving real-world problems through data science and machine learning.
 
 ---
 
 ## 🔧 Skills & Tools
-- **Programming & Analysis**: Python, R, SQL  
-- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib
+- **Programming & Analysis**: Python, R, SQL, Excel 
+- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - **Data Visualization**: Tableau 
 - **Other Skills**: Data Wrangling, Machine Learning  
 
