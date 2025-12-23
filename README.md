@@ -1,6 +1,6 @@
 # Hi there, I'm Emily Picinich! 👋
 
-🎓 **Master’s Student in Data Science**  
+🎓 **Master of Science in Data Science**  
 📍 Bellevue University | Data Enthusiast | Aspiring Data Scientist  
 
 ---
